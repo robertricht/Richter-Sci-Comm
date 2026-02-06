@@ -74,7 +74,7 @@ nav-menu: true
 	<!-- Spirograph -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/Futurium_David_von_Becker_VB_0420.jpg %}" alt="Spirograph patterns" data-position="25% 25%" />
+			<img src="{% link assets/images/banner.jpg %}" alt="Spirograph patterns" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
