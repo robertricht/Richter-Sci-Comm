@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exhibits
-image: assets/images/pic01.jpg
+image: assets/images/Futurium_David_von_Becker_VB_0420.jpg
 nav-menu: true
 ---
 
