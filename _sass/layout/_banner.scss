@@ -8,7 +8,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url(".../images/Futurium_David_von_Becker_VB_0420.jpg")');
+		@include vendor('background-image', 'url("../images/Futurium_David_von_Becker_VB_0420.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -175,6 +175,7 @@
 			}
 		}
 	}
+
 
 
 
