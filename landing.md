@@ -2,7 +2,7 @@
 title: Exhibits
 layout: landing
 description: 'I design interactive science exhibits that turn physical phenomena into playful, hands-on experiences.'
-image: assets/images/pic07.jpg
+image: assets/images/Futurium_David_von_Becker_VB_0420.jpg
 nav-menu: true
 ---
 
