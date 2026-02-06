@@ -35,7 +35,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Double Pendulum (Doppelpendel)</h3>
+					<h3>Double Pendulum</h3>
 				</header>
 				<p>
 					A classic chaotic system you can feel in your hands. Visitors set the initial conditions and watch how
