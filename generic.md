@@ -20,7 +20,7 @@ nav-menu: true
 
 <iframe
   width="560" height="315"
-  src="https://www.youtube.com/embed/29mTFfnJf5E"
+  src=src="https://www.youtube-nocookie.com/embed/29mTFfnJf5E"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
