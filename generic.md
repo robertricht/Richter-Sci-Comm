@@ -18,4 +18,6 @@ nav-menu: true
 </div>
 
 
+
+
 Introducing the Pintograph, a mesmerizing innovation that transcends static art. This three-wheeled contraption ingeniously draws intricate images, ready to spring to life through animation. Ingeniously calibrated, the small wheels make around 2.618… rotations while the larger wheel completes a single rotation. Through a carefully crafted detuning of the small wheels, the resultant images mirror the captivating patterns seen in nature, such as succulents or the Romanesco.
