@@ -30,7 +30,7 @@ nav-menu: true
 	<!-- Doppelpendel -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/hello-science-vb (1).avif %}" alt="Double pendulum installation" data-position="center center" />
+			<img src="{% link assets/images/hello-science-vb-1.avif.avif %}" alt="Double pendulum installation" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
