@@ -52,7 +52,7 @@ nav-menu: true
 	<!-- Lost-form casting -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="Lost-form casting workshop" data-position="top center" />
+			<img src="{% link assets/images/23-02-22_PergamonLab_CC-Andrea-Heilrath_8289-1536x1017.jpg %}" alt="Lost-form casting workshop" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
