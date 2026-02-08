@@ -40,7 +40,7 @@ nav-menu: true
 				<p>
 					From sensors to prototypes: participants learn the basics of microcontrollers and rapid fabrication.
 					Typical outcomes include small interactive devices (LEDs, motors, sensors) and 3D-printed parts that
-					make projects tangible and robust.
+					make projects tangible and robust .
 				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
