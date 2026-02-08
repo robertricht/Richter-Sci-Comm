@@ -2,7 +2,7 @@
 title: Workshops
 layout: landing
 description: 'I design and deliver hands-on workshops and talks on science, technology, and making—tailored to your audience.'
-image: assets/images/Futurium_David_von_Becker_VB_0420.jpg
+image: assets/images/23-02-22_PergamonLab_CC-Andrea-Heilrath_8289-1536x1017.jpg
 nav-menu: true
 ---
 
