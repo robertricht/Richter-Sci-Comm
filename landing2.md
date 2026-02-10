@@ -1,9 +1,10 @@
 ---
-title: Exhibits
+title: Escape Challenges
 layout: landing
-description: 'I design interactive science exhibits that turn physical phenomena into playful, hands-on experiences.'
+description: 'I design live escape games with science and technology at their core—hands-on, narrative, and puzzle-driven.'
 image: assets/images/Futurium_David_von_Becker_VB_0420.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
@@ -13,13 +14,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Interactive Exhibits & Installations</h2>
+			<h2>Science & Technology Escape Games</h2>
 		</header>
 		<p>
-			I develop interactive installations that make science tangible: kinetic sculptures, mechanical drawing machines,
-			and audiovisual feedback systems that invite people to explore, experiment, and understand by doing.
-			My work lives at the intersection of physics, design, and education—built to be robust for festivals,
-			museums, workshops, and public engagement.
+			I build live escape challenges that translate real scientific concepts into tangible puzzles and collaborative
+			stories. Instead of “random locks”, the mechanisms, clues, and interactions are grounded in physics, technology,
+			and making—designed to be playful, surprising, and understandable while still feeling like a real escape game.
+			Formats range from portable pop-up games to full rooms and festival-ready experiences.
 		</p>
 	</div>
 </section>
@@ -27,20 +28,20 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 
-	<!-- Doppelpendel -->
+	<!-- Quantum Escape Room -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/hello-science-vb-1.avif.avif %}" alt="Double pendulum installation" data-position="center center" />
+			<img src="{% link assets/images/hello-science-vb-1.avif.avif %}" alt="Quantum Escape Room" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Double Pendulum</h3>
+					<h3>Quantum Escape Room</h3>
 				</header>
 				<p>
-					A classic chaotic system you can feel in your hands. Visitors set the initial conditions and watch how
-					tiny differences amplify into wildly different motion—perfect for talking about determinism, sensitivity,
-					and measurement.
+					A puzzle-driven introduction to quantum concepts—built around hands-on interactions, physical props,
+					and narrative progression. Players explore ideas like measurement, uncertainty, and “strange” correlations
+					through mechanisms they can operate themselves.
 				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -49,63 +50,20 @@ nav-menu: true
 		</div>
 	</section>
 
-	<!-- Pintograph -->
+	<!-- Tourism Escape Game -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="Pintograph drawing machine" data-position="top center" />
+			<img src="{% link assets/images/pic11.jpg %}" alt="EnterScience Tourism Escape Game" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Pintograph</h3>
+					<h3>EnterScience Tourism Escape Game</h3>
 				</header>
 				<p>
-					A mechanical drawing machine that transforms coupled oscillations into ink on paper. By changing link
-					lengths and pivot points, visitors create families of curves while intuitively learning about
-					frequency ratios and parametrization.
-				</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
-	<!-- Spirograph -->
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/banner.jpg %}" alt="Spirograph patterns" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Spirograph</h3>
-				</header>
-				<p>
-					From simple rotation to complex patterns: a hands-on way to explore epicycloids suggestively—geometry
-					you can generate, vary, and take home as a print. Great for workshops and family-friendly stations.
-				</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
-	<!-- Videofeedback -->
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic11.jpg %}" alt="Video feedback installation" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Video Feedback</h3>
-				</header>
-				<p>
-					A camera-films-a-screen feedback loop that turns movement into evolving visuals. Visitors become part
-					of the system and discover how delay, gain, and perspective shape stable patterns—or push the setup
-					into vibrant instability.
+					A compact, event-ready escape experience developed for public engagement. It combines scientific thinking,
+					observation, and hands-on problem solving with a clear progression—well suited for festivals, museums,
+					and educational programs.
 				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -120,13 +78,16 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Want to show these at your venue?</h2>
+			<h2>Want an escape challenge for your venue?</h2>
 		</header>
 		<p>
-			I adapt exhibits to different contexts—festival floors, museum galleries, classrooms, and workshops.
-			If you’re planning a program and want interactive, robust installations with facilitation options, let’s talk.
+			I can adapt scenarios to different audiences, durations, and spaces—ranging from quick pop-up formats to
+			full-room builds. Tell me your venue, target group, and time slot, and I’ll suggest a concept that fits.
 		</p>
 		<ul class="actions">
 			<li><a href="#contact" class="button next">Get in touch</a></li>
 		</ul>
-	</
+	</div>
+</section>
+
+</div>
