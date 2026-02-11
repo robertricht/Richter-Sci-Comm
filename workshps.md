@@ -74,7 +74,7 @@ nav-menu: true
 	<!-- Christmas Making -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/banner.jpg %}" alt="Christmas making workshop" data-position="25% 25%" />
+			<img src="{% link assets/images/Stern.webp %}" alt="Christmas making workshop" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
