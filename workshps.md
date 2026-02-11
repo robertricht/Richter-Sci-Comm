@@ -82,8 +82,7 @@ nav-menu: true
 					<h3>Christmas Making</h3>
 				</header>
 				<p>
-					Seasonal making sessions for families, teams, or classrooms—ranging from simple electronics and light-up
-					ornaments to creative crafts with a science twist. Designed to be accessible, fun, and genuinely hands-on.
+					Christmas Crafts (Science Edition): Why are snowflakes hexagonal? What do Möbius strips and hearts have in common? And why is the great rhombic triacontahedron the best Christmas star? I develop themed science-making workshops where participants build, decorate, and take home beautiful objects—while learning the ideas behind them.
 				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
