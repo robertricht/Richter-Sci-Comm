@@ -30,7 +30,7 @@ nav-menu: true
 	<!-- Arduino & 3D Printing -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic11.jpg %}" alt="Arduino and 3D printing workshop" data-position="center center" />
+			<img src="{% link assets/images/IMG_20221021_141913.jpg %}" alt="Arduino and 3D printing workshop" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
