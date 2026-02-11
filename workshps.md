@@ -79,7 +79,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Christmas Making</h3>
+					<h3>Christmas Crafts</h3>
 				</header>
 				<p>
 					Christmas Crafts (Science Edition): Why are snowflakes hexagonal? What do Möbius strips and hearts have in common? And why is the great rhombic triacontahedron the best Christmas star? I develop themed science-making workshops where participants build, decorate, and take home beautiful objects—while learning the ideas behind them.
