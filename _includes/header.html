@@ -5,8 +5,20 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
-		<a href="#menu">Menu</a>
-	</nav>
+  {% assign other = site.html_pages
+    | where: "lang_ref", page.lang_ref
+    | where_exp: "p", "p.lang != page.lang"
+    | first %}
+
+  {% if other %}
+    <a href="{{ other.url | absolute_url }}">
+      {% if page.lang == "de" %}EN{% else %}DE{% endif %}
+    </a>
+  {% endif %}
+
+  <a href="#menu">Menu</a>
+</nav>
+
 </header>
 
 <!-- Menu -->
