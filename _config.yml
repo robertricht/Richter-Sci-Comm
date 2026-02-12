@@ -5,7 +5,7 @@ email: robertricht@gmail.com
 description: >
   Science communication through interactive installations, workshops and maker-education.<br />
   Based in Berlin — projects with festivals, museums and educational partners.
-baseurl: "" # user site -> empty
+baseurl: "/Richter-Sci-Comm" # user site -> empty
 url: "https://robertricht.github.io/Richter-Sci-Comm/" # <-- DEINUSERNAME ersetzen
 author: Dr. Robert Richter
 
