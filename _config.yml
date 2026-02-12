@@ -6,7 +6,7 @@ description: >
   Science communication through interactive installations, workshops and maker-education.<br />
   Based in Berlin — projects with festivals, museums and educational partners.
 baseurl: "/Richter-Sci-Comm" # user site -> empty
-url: "https://robertricht.github.io/Richter-Sci-Comm/" # <-- DEINUSERNAME ersetzen
+url: "https://robertricht.github.io" # <-- DEINUSERNAME ersetzen
 author: Dr. Robert Richter
 
 street_address: Oranienburger Str. 39
