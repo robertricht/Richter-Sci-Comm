@@ -31,7 +31,7 @@ show_tile: true
 	<!-- Quantum Escape Room -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/hello-science-vb-1.avif.avif %}" alt="Quantum Escape Room" data-position="center center" />
+			<img src="{% link assets/images/escape2.jpg %}" alt="Quantum Escape Room" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
