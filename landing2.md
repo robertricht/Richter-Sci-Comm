@@ -2,7 +2,7 @@
 title: Escape Challenges
 layout: landing
 description: 'I design live escape games with science and technology at their core—hands-on, narrative, and puzzle-driven.'
-image: assets/images/Futurium_David_von_Becker_VB_0420.jpg
+image: assets/images/Escape.jpg.jpg
 nav-menu: true
 show_tile: true
 ---
