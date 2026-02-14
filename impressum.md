@@ -13,7 +13,7 @@ Oranienburger Str. 39
 10117 Berlin  
 Deutschland  
 
-E-Mail: contact@xstageproject.com  
+E-Mail: robertricht@gmail.com
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 Dr. Robert Richter, Anschrift wie oben.
