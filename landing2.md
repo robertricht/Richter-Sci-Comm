@@ -58,7 +58,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>EnterScience Tourism Escape Game</h3>
+					<h3>Tourism Escape Game</h3>
 				</header>
 				<p>
 					A compact, event-ready escape experience developed for public engagement. It combines scientific thinking,
