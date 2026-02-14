@@ -50,7 +50,7 @@ show_tile: true
 		</div>
 	</section>
 
-	<!-- Tourism Escape Game -->
+	<!-- Escape Challenges Tourism -->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic11.jpg %}" alt="Escape Challenge Tourism" data-position="center center" />
