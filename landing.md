@@ -71,44 +71,43 @@ nav-menu: true
 		</div>
 	</section>
 
-	<!-- Spirograph -->
+	<!-- Nature Structure -->
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/banner.jpg %}" alt="Spirograph patterns" data-position="25% 25%" />
+		<a href="https://xstageproject.com/uncategorized/spirograph-bloom-video-feedback/" class="image" target="_blank" rel="noopener">
+			<img src="{% link assets/images/banner.jpg %}" alt="Nature Structure installation" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Spirograph</h3>
+					<h3>Nature Structure</h3>
 				</header>
 				<p>
-					From simple rotation to complex patterns: a hands-on way to explore epicycloids suggestively—geometry
-					you can generate, vary, and take home as a print. Great for workshops and family-friendly stations.
+					An exploration of how simple rules and feedback generate rich patterns and organic-looking forms.
+					Hands-on setups invite visitors to discover repetition, symmetry, and emergent complexity.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://xstageproject.com/uncategorized/spirograph-bloom-video-feedback/" class="button" target="_blank" rel="noopener">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 
-	<!-- Videofeedback -->
+	<!-- Nature Structure (Video Feedback / Bloom) -->
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic11.jpg %}" alt="Video feedback installation" data-position="center center" />
+		<a href="https://xstageproject.com/uncategorized/spirograph-bloom-video-feedback/" class="image" target="_blank" rel="noopener">
+			<img src="{% link assets/images/pic11.jpg %}" alt="Nature Structure: video feedback patterns" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Video Feedback</h3>
+					<h3>Nature Structure</h3>
 				</header>
 				<p>
-					A camera-films-a-screen feedback loop that turns movement into evolving visuals. Visitors become part
-					of the system and discover how delay, gain, and perspective shape stable patterns—or push the setup
-					into vibrant instability.
+					A playful feedback loop that turns motion, delay, and amplification into evolving visuals.
+					Visitors become part of the system and explore how stable patterns emerge—or drift into vibrant instability.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://xstageproject.com/uncategorized/spirograph-bloom-video-feedback/" class="button" target="_blank" rel="noopener">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -129,4 +128,7 @@ nav-menu: true
 		<ul class="actions">
 			<li><a href="#contact" class="button next">Get in touch</a></li>
 		</ul>
-	</
+	</div>
+</section>
+
+</div>
