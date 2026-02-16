@@ -86,7 +86,7 @@ nav-menu: true
 					Hands-on setups invite visitors to discover repetition, symmetry, and emergent complexity.
 				</p>
 				<ul class="actions">
-					<li><a href="https://xstageproject.com/uncategorized/spirograph-bloom-video-feedback/" class="button" target="_blank" rel="noopener">Learn more</a></li>
+					<li><a href="nature.md" class="button" target="_blank" rel="noopener">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
