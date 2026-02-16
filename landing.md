@@ -92,26 +92,7 @@ nav-menu: true
 		</div>
 	</section>
 
-	<!-- Nature Structure (Video Feedback / Bloom) -->
-	<section>
-		<a href="https://xstageproject.com/uncategorized/spirograph-bloom-video-feedback/" class="image" target="_blank" rel="noopener">
-			<img src="{% link assets/images/pic11.jpg %}" alt="Nature Structure: video feedback patterns" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Nature Structure</h3>
-				</header>
-				<p>
-					A playful feedback loop that turns motion, delay, and amplification into evolving visuals.
-					Visitors become part of the system and explore how stable patterns emerge—or drift into vibrant instability.
-				</p>
-				<ul class="actions">
-					<li><a href="https://xstageproject.com/uncategorized/spirograph-bloom-video-feedback/" class="button" target="_blank" rel="noopener">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+	
 
 </section>
 
