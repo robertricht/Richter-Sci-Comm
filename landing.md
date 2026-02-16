@@ -86,7 +86,7 @@ nav-menu: true
 					Hands-on setups invite visitors to discover repetition, symmetry, and emergent complexity.
 				</p>
 				<ul class="actions">
-					<li><a href="nature.html" class="button" target="_blank" rel="noopener">Learn more</a></li>
+					<li><a href="nature" class="button" target="_blank" rel="noopener">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
