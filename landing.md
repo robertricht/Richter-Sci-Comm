@@ -43,7 +43,7 @@ nav-menu: true
 					and measurement.
 				</p>
 				<ul class="actions">
-					<li><a href="pendulum.html" class="button">Learn more</a></li>
+					<li><a href="/double-pendulum.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
