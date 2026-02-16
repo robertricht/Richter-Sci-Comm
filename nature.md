@@ -2,6 +2,7 @@
 layout: post
 title: Nature Structure
 description: Patterns from simple rules — mechanical drawing and feedback as hands-on systems.
+permalink: /nature.html
 image: assets/images/pic11.jpg
 show_tile: false
 nav-menu: false
