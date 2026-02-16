@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Thanks!
-nav-menu: true
+show_tile: false
+nav-menu: false
 ---
 
 Thanks for your message — I’ll get back to you soon.
