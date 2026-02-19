@@ -60,9 +60,7 @@ nav-menu: true
 					<h3>Pintograph</h3>
 				</header>
 				<p>
-					A mechanical drawing machine that transforms coupled oscillations into ink on paper. By changing link
-					lengths and pivot points, visitors create families of curves while intuitively learning about
-					frequency ratios and parametrization.
+					A three-wheel pintograph that draws phyllotactic spiral patterns—tuned so the images can appear to move when spun under a strobe light. 
 				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
