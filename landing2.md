@@ -53,7 +53,7 @@ show_tile: true
 	<!-- Escape Challenges Tourism -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic11.jpg %}" alt="Escape Challenge Tourism" data-position="center center" />
+			<img src="{% link assets/images/esca.jpg %}" alt="Escape Challenge Tourism" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
