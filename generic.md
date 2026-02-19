@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pintograph
-description: Lorem ipsum dolor est
+description: A three-wheel pintograph that draws phyllotactic spiral patterns—tuned so the images can appear to move when spun under a strobe light.
 image: assets/images/pic11.jpg
 show_tile: false
 nav-menu: false
