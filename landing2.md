@@ -65,7 +65,7 @@ show_tile: true
 				But before they can enjoy the minibar, they must solve interactive digital and creative puzzles—experiencing first-hand how technology can enhance the tourism and hospitality experience.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="tourism.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
