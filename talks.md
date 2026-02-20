@@ -2,7 +2,7 @@
 title: Talks & Performances
 layout: landing
 description: 'Interactive science talks and live performances with spectacular demos—designed for festivals, museums, schools, and public events.'
-image: assets/images/23-02-22_PergamonLab_CC-Andrea-Heilrath_8394-1536x1018.webp
+image: assets/images/Stickstoff.jpg
 nav-menu: true
 ---
 
@@ -30,7 +30,7 @@ nav-menu: true
 	<!-- Liquid Nitrogen Cooking -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="Liquid nitrogen cooking performance" data-position="center center" />
+			<img src="{% link assets/images/Stickstoff.jpg %}" alt="Liquid nitrogen cooking performance" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
