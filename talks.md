@@ -65,7 +65,7 @@ nav-menu: true
 					catalysts, and gas formation. Great for chemistry-themed events and school audiences.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="elephant-toothpaste.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
