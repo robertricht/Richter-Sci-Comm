@@ -1,0 +1,23 @@
+---
+layout: post
+title: Elephant Toothpaste
+description: A safe, spectacular chemistry demo—catalysts, reaction speed, heat, and lots of foam.
+permalink: /elephant-toothpaste.html
+show_tile: false
+nav-menu: false
+---
+
+<blockquote class="instagram-media"
+  data-instgrm-permalink="https://www.instagram.com/reel/CPBDXbrnL0B/"
+  data-instgrm-version="14"
+  style="background:#fff; border:0; margin: 1rem auto; max-width:540px; width:100%;">
+</blockquote>
+<script async src="https://www.instagram.com/embed.js"></script>
+
+<p style="margin-top:1em;">
+  <a href="https://www.instagram.com/reel/CPBDXbrnL0B/" target="_blank" rel="noopener">Watch on Instagram</a>
+</p>
+
+**Elephant Toothpaste** is a classic crowd-pleaser—done properly and safely. A catalyzed decomposition reaction produces a rapid release of oxygen, which gets trapped in soap to create a dramatic foam eruption.
+
+Beyond the spectacle, it’s a great entry point into core chemistry concepts: what catalysts do (and don’t do), how reaction rate depends on conditions, and why some reactions release significant heat. It works especially well as a short, high-impact stage demo for festivals, museums, and school audiences.
