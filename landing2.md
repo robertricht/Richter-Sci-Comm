@@ -61,9 +61,9 @@ show_tile: true
 					<h3>Tourism Escape Game</h3>
 				</header>
 				<p>
-					A compact, event-ready escape experience developed for public engagement. It combines scientific thinking,
-					observation, and hands-on problem solving with a clear progression—well suited for festivals, museums,
-					and educational programs.
+					Short text (EN)
+
+Escape Challenge Tourism blends classic escape-room gameplay with innovative technologies such as AI, augmented reality, and 3D printing. In the story “Bed & Breakfast with Urban Flair,” participants arrive as guests in a holiday apartment located in the basement of the Historic Archive. But before they can enjoy the minibar, they must solve interactive digital and creative puzzles—experiencing first-hand how technology can enhance the tourism and hospitality experience.
 				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
