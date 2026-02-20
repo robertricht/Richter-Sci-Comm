@@ -3,7 +3,7 @@ layout: post
 title: Escape Challenge Tourism
 description: A live escape-room experience that brings AI, augmented reality, and 3D printing into the guest journey.
 permalink: /tourism.html
-image: assets/images/esca.jpg
+
 show_tile: false
 nav-menu: false
 ---
