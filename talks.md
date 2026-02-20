@@ -1,0 +1,113 @@
+---
+title: Talks & Performances
+layout: landing
+description: 'Interactive science talks and live performances with spectacular demos—designed for festivals, museums, schools, and public events.'
+image: assets/images/23-02-22_PergamonLab_CC-Andrea-Heilrath_8394-1536x1018.webp
+nav-menu: true
+---
+
+<!-- Main -->
+<div id="main">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Talks & Performances</h2>
+		</header>
+		<p>
+			I design and deliver interactive science talks and live demo performances—high-energy, hands-on, and adapted to your audience.
+			Formats range from short stage slots at festivals to full educational shows in museums and schools.
+			Depending on the venue, I can bring the complete setup, safety concepts, and moderation—so your audience can experience
+			science as something vivid, surprising, and memorable.
+		</p>
+	</div>
+</section>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+
+	<!-- Liquid Nitrogen Cooking -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="Liquid nitrogen cooking performance" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Cooking with Liquid Nitrogen</h3>
+				</header>
+				<p>
+					A spectacular live demo that turns thermodynamics into something you can taste. Using liquid nitrogen,
+					we explore rapid cooling, phase changes, and material behavior—often ending with edible results
+					like instant ice cream or frozen treats (venue- and safety-dependent).
+				</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<!-- Elephant Toothpaste -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic11.jpg %}" alt="Elephant toothpaste chemistry demo" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Elephant Toothpaste</h3>
+				</header>
+				<p>
+					A classic crowd-pleaser—done properly and safely. We use a catalyzed decomposition reaction to produce
+					a dramatic foam eruption, and unpack what’s happening in terms of reaction speed, heat release,
+					catalysts, and gas formation. Great for chemistry-themed events and school audiences.
+				</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<!-- Placeholder for a future talk -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="Science talk placeholder" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>More formats (coming soon)</h3>
+				</header>
+				<p>
+					I’m currently adding more talk formats to this page. If you already have a theme or event focus in mind,
+					tell me your audience and time slot—and I’ll propose a show concept that fits your venue.
+				</p>
+				<ul class="actions">
+					<li><a href="#contact" class="button">Get in touch</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+</section>
+
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Planning a talk or show?</h2>
+		</header>
+		<p>
+			Let me know your audience size, age range, indoor/outdoor setting, and time format.
+			I’ll suggest a talk/performance concept that matches your program, including technical requirements and safety considerations.
+		</p>
+		<ul class="actions">
+			<li><a href="#contact" class="button next">Get in touch</a></li>
+		</ul>
+	</div>
+</section>
+
+</div>
