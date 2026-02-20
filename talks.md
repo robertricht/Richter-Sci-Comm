@@ -52,7 +52,7 @@ nav-menu: true
 	<!-- Elephant Toothpaste -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic11.jpg %}" alt="Elephant toothpaste chemistry demo" data-position="top center" />
+			<img src="{% link assets/images/elefant.jpg %}" alt="Elephant toothpaste chemistry demo" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
