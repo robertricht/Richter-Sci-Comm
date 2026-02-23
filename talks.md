@@ -74,7 +74,7 @@ nav-menu: true
 	<!-- Placeholder for a future talk -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/elefant.JPG %}" alt="Science talk placeholder" data-position="25% 25%" />
+			<img src="{% link assets/images/talk.jpg %}" alt="Science talk placeholder" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
