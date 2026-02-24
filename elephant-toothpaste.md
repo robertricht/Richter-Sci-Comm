@@ -13,33 +13,29 @@ nav-menu: false
     data-instgrm-version="14">
   </blockquote>
 </div>
+
 <script async src="https://www.instagram.com/embed.js"></script>
 
 <style>
+  /* Wrapper darf so breit sein wie der Content-Bereich */
   .ig-embed-wrap{
-    max-width: 560px;
-    margin: 1rem auto;
+    width: 100%;
+    max-width: 900px;          /* <- ggf. 720 / 960 testen */
+    margin: 1.5rem auto;
   }
-  /* Instagram setzt inline width, wir geben dem Wrapper Raum */
-  .ig-embed-wrap .instagram-media{
+
+  /* Instagram setzt inline style + max-width. Wir überschreiben alles. */
+  .ig-embed-wrap blockquote.instagram-media{
     width: 100% !important;
+    max-width: 100% !important;
     min-width: 0 !important;
-    margin: 0 !important;
+    margin: 0 auto !important;
   }
-</style>
 
-
-<a href="https://www.instagram.com/reel/CPBDXbrnL0B/" target="_blank" rel="noopener" class="ig-cta">
-  Watch the Reel on Instagram
-</a>
-
-<style>
-  .ig-cta{
-    display:inline-block;
-    padding:0.9rem 1.2rem;
-    border:2px solid rgba(255,255,255,0.35);
-    border-radius:0.35rem;
-    text-decoration:none;
+  /* Instagram erzeugt oft ein inneres iframe/div mit fixed width */
+  .ig-embed-wrap iframe,
+  .ig-embed-wrap .instagram-media-rendered{
+    max-width: 100% !important;
   }
 </style>
 
