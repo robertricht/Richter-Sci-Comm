@@ -7,16 +7,27 @@ show_tile: false
 nav-menu: false
 ---
 
-<blockquote class="instagram-media"
-  data-instgrm-permalink="https://www.instagram.com/reel/CPBDXbrnL0B/"
-  data-instgrm-version="14"
-  style="background:#fff; border:0; margin: 1rem auto; max-width:540px; width:100%;">
-</blockquote>
+<div class="ig-embed-wrap">
+  <blockquote class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/reel/CPBDXbrnL0B/"
+    data-instgrm-version="14">
+  </blockquote>
+</div>
 <script async src="https://www.instagram.com/embed.js"></script>
 
-<p style="margin-top:1em;">
-  <a href="https://www.instagram.com/reel/CPBDXbrnL0B/" target="_blank" rel="noopener">Watch on Instagram</a>
-</p>
+<style>
+  .ig-embed-wrap{
+    max-width: 560px;
+    margin: 1rem auto;
+  }
+  /* Instagram setzt inline width, wir geben dem Wrapper Raum */
+  .ig-embed-wrap .instagram-media{
+    width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+  }
+</style>
+
 
 **Elephant Toothpaste** is a classic crowd-pleaser—done properly and safely. A catalyzed decomposition reaction produces a rapid release of oxygen, which gets trapped in soap to create a dramatic foam eruption.
 
