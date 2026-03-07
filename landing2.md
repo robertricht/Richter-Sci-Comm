@@ -44,7 +44,7 @@ show_tile: true
 					through mechanisms they can operate themselves.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="/quantum-escape-room.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
