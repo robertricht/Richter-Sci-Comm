@@ -2,6 +2,7 @@
 layout: post
 title: Quantum Escape Room
 description: A live escape-room experience that turns quantum ideas into hands-on puzzles and collaborative storytelling.
+image: assets/images/23-02-22_PergamonLab_CC-Andrea-Heilrath_8394-1536x1018.webp
 permalink: /quantum-escape-room.html
 show_tile: false
 nav-menu: false
