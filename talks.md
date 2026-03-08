@@ -43,7 +43,7 @@ nav-menu: true
 					like instant ice cream or frozen treats (venue- and safety-dependent).
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="/liquid-nitrogen-cooking.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
