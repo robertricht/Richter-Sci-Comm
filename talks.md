@@ -75,7 +75,7 @@ nav_order: 40
 	<!-- Science Talks -->
 	<section>
 		<a href="{{ '/talks.html' | relative_url }}" class="image">
-			<img src="{% link assets/images/talk.jpg %}" alt="Science talks on physics, mathematics, and patterns in nature" data-position="25% 25%" />
+			<img src="{% link assets/images/talk3.jpg %}" alt="Science talks on physics, mathematics, and patterns in nature" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
