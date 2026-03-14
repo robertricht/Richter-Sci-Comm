@@ -4,6 +4,7 @@ layout: landing
 description: 'I design live escape games with science and technology at their core—hands-on, narrative, and puzzle-driven.'
 image: assets/images/Escape.jpg
 nav-menu: true
+nav_order: 20
 show_tile: true
 ---
 
