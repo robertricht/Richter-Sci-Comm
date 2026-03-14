@@ -88,7 +88,7 @@ nav_order: 40
 					clear, engaging, and memorable.
 				</p>
 				<ul class="actions">
-					<li><a href="{{ '/talks.html' | relative_url }}" class="button">Learn more</a></li>
+					<li><a href="{{ '/talk.html' | relative_url }}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
