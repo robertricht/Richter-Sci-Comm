@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Robert'
+landing-title: 'Making science tangible'
 description: null
 image: null
 author: null
