@@ -2,7 +2,7 @@
 layout: post
 title: Talks
 description: Science talks on physics, mathematics, patterns in nature, complexity, and quantum technology.
-permalink: /talks.html
+permalink: /talk.html
 
 show_tile: false
 nav-menu: false
