@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Making science tangible'
+landing-title: 'Hi, let’s make science tangible'
 description: null
 image: null
 author: null
