@@ -2,6 +2,7 @@
 title: Datenschutzerklärung
 layout: page
 nav-menu: true
+nav_order: 60
 show_tile: false
 permalink: /datenschutz/
 ---
