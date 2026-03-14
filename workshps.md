@@ -4,6 +4,7 @@ layout: landing
 description: 'I design and deliver Hands-on workshops and talks on science, technology, and making—tailored to your audience.'
 image: assets/images/23-02-22_PergamonLab_CC-Andrea-Heilrath_8289-1536x1017.jpg
 nav-menu: true
+nav_order: 30
 ---
 
 <!-- Main -->
