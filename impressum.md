@@ -2,6 +2,7 @@
 title: Impressum
 layout: page
 nav-menu: true
+nav_order: 50
 show_tile: false
 permalink: /impressum/
 ---
