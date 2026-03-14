@@ -4,6 +4,7 @@ layout: landing
 description: 'Interactive science talks and live performances with spectacular demos—designed for festivals, museums, schools, and public events.'
 image: assets/images/Stickstoff.jpg
 nav-menu: true
+nav_order: 40
 ---
 
 <!-- Main -->
