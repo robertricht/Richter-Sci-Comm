@@ -92,26 +92,7 @@ nav_order: 30
 		</div>
 	</section>
 
-	<!-- Optional: Talks -->
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic11.jpg %}" alt="Talks and public engagement" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Talks & Public Engagement</h3>
-				</header>
-				<p>
-					Short talks and interactive presentations on science communication, prototyping, and maker-education—
-					with live demos when possible. Suitable for conferences, museum programs, and educational events.
-				</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+	
 
 </section>
 
