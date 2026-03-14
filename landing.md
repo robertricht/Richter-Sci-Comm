@@ -4,6 +4,7 @@ layout: landing
 description: 'I design interactive science exhibits that turn physical phenomena into playful, hands-on experiences.'
 image: assets/images/Futurium_David_von_Becker_VB_0420.jpg
 nav-menu: true
+nav_order: 10
 ---
 
 <!-- Main -->
