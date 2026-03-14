@@ -14,7 +14,7 @@ nav_order: 30
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Workshops & Talks</h2>
+			<h2>Workshops</h2>
 		</header>
 		<p>
 			I develop and facilitate hands-on workshops and talks that connect scientific concepts with practical making.
@@ -44,7 +44,7 @@ nav_order: 30
 					make projects tangible and robus t .
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<!--<li><a href="generic.html" class="button">Learn more</a></li>-->
 				</ul>
 			</div>
 		</div>
@@ -66,7 +66,7 @@ nav_order: 30
 					a finished cast piece and a solid understanding of the process.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<!--<li><a href="generic.html" class="button">Learn more</a></li>-->
 				</ul>
 			</div>
 		</div>
@@ -86,7 +86,7 @@ nav_order: 30
 					Christmas Crafts (Science Edition): Why are snowflakes hexagonal? What do Möbius strips and hearts have in common? And why is the great rhombic triacontahedron the best Christmas star? I develop themed science-making workshops where participants build, decorate, and take home beautiful objects—while learning the ideas behind them.
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<!--<li><a href="generic.html" class="button">Learn more</a></li>-->
 				</ul>
 			</div>
 		</div>
