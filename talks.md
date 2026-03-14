@@ -72,26 +72,28 @@ nav_order: 40
 		</div>
 	</section>
 
-	<!-- Placeholder for a future talk -->
+	<!-- Science Talks -->
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/talk.jpg %}" alt="Science talk placeholder" data-position="25% 25%" />
+		<a href="{{ '/talks.html' | relative_url }}" class="image">
+			<img src="{% link assets/images/talk.jpg %}" alt="Science talks on physics, mathematics, and patterns in nature" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>More formats (coming soon)</h3>
+					<h3>Science Talks</h3>
 				</header>
 				<p>
-					I’m currently adding more talk formats to this page. If you already have a theme or event focus in mind,
-					tell me your audience and time slot—and I’ll propose a show concept that fits your venue.
+					I deliver talks on science that invite audiences to look at the world differently. Topics range from classical mechanics
+					to quantum technology, from pattern formation in animals to spiral growth in plants—always aiming to make complex ideas
+					clear, engaging, and memorable.
 				</p>
 				<ul class="actions">
-					<li><a href="#contact" class="button">Get in touch</a></li>
+					<li><a href="{{ '/talks.html' | relative_url }}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+
 
 </section>
 
