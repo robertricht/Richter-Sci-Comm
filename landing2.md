@@ -31,7 +31,7 @@ show_tile: true
 
 	<!-- Quantum Escape Room -->
 	<section>
-		<a href="generic.html" class="image">
+		<a href="/quantum-escape-room.html" class="image">
 			<img src="{% link assets/images/escape2.jpg %}" alt="Quantum Escape Room" data-position="center center" />
 		</a>
 		<div class="content">
@@ -53,7 +53,7 @@ show_tile: true
 
 	<!-- Escape Challenges Tourism -->
 	<section>
-		<a href="generic.html" class="image">
+		<a href="/tourism.html" class="image">
 			<img src="{% link assets/images/esca.jpg %}" alt="Escape Challenge Tourism" data-position="center center" />
 		</a>
 		<div class="content">
