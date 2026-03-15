@@ -30,7 +30,7 @@ nav_order: 30
 
 	<!-- Arduino & 3D Printing -->
 	<section>
-		<a href="generic.html" class="image">
+	<!--	<a href="generic.html" class="image">-->
 			<img src="{% link assets/images/IMG_20221021_141913.jpg %}" alt="Arduino and 3D printing workshop" data-position="center center" />
 		</a>
 		<div class="content">
@@ -52,7 +52,7 @@ nav_order: 30
 
 	<!-- Lost-form casting -->
 	<section>
-		<a href="generic.html" class="image">
+		<!--<a href="generic.html" class="image">-->
 			<img src="{% link assets/images/23-02-22_PergamonLab_CC-Andrea-Heilrath_8289-1536x1017.jpg %}" alt="Lost-form casting workshop" data-position="top center" />
 		</a>
 		<div class="content">
@@ -74,7 +74,7 @@ nav_order: 30
 
 	<!-- Christmas Making -->
 	<section>
-		<a href="generic.html" class="image">
+		<!--<a href="generic.html" class="image">-->
 			<img src="{% link assets/images/Stern.webp %}" alt="Christmas making workshop" data-position="25% 25%" />
 		</a>
 		<div class="content">
