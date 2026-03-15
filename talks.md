@@ -30,7 +30,7 @@ nav_order: 40
 
 	<!-- Liquid Nitrogen Cooking -->
 	<section>
-		<a href="generic.html" class="image">
+		<a href="/liquid-nitrogen-cooking.html" class="image">
 			<img src="{% link assets/images/Stickstoff.jpg %}" alt="Liquid nitrogen cooking performance" data-position="center center" />
 		</a>
 		<div class="content">
@@ -52,7 +52,7 @@ nav_order: 40
 
 	<!-- Elephant Toothpaste -->
 	<section>
-		<a href="generic.html" class="image">
+		<a href="elephant-toothpaste.html" class="image">
 			<img src="{% link assets/images/elefant.JPG %}" alt="Elephant toothpaste chemistry demo" data-position="top center" />
 		</a>
 		<div class="content">
