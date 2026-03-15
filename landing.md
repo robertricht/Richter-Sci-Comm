@@ -30,7 +30,7 @@ nav_order: 10
 
 	<!-- Doppelpendel -->
 	<section>
-		<a href="generic.html" class="image">
+		<a href="/double-pendulum.html" class="image">
 			<img src="{% link assets/images/hello-science-vb-1.avif.avif %}" alt="Double pendulum installation" data-position="center center" />
 		</a>
 		<div class="content">
