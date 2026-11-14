@@ -4,6 +4,7 @@ layout: page
 description: 'Modular light sculptures developed by Robert Richter and Tobias Schubert.'
 permalink: /xtal/
 nav-menu: false
+show_tile: false
 sitemap: false
 ---
 
