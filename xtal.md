@@ -1,4 +1,3 @@
-
 ---
 title: xtal
 layout: page
